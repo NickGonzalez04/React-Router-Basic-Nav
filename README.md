@@ -18,7 +18,7 @@ Topics:
 * run `yarn start`
 
 ### Steps for implementing React Router
-[X'/]
+[X]
 * You'll notice we've already installed react-router-dom for you.
 * `import` your BrowserRouter as Router inside your `index.js` file.
 * Wrap your `<App />` component that you're passing to `ReactDOM.render()` with your new `Router` component.
@@ -26,7 +26,7 @@ Topics:
 * inside the `REACT DEV TOOLS` expand `<BrowserRouter>` and highlight `<Router>` and notice that here is a `"history"` object on props and a `"match"` object on its state. These two objects are how all of our Router is going to work. 
 
 ### Steps for "Declaring" your routes
-[]
+[X]
 * Inside of your `App.js` file `import { Route } from 'react-router-dom';`
 * This is where we're going to declare and specify our router.
 * Create 3 `<Route />` setting their `path` prop equal to `/`, `/about`, `/contact` with their respective components.
