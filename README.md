@@ -33,7 +33,7 @@ Topics:
 * Be sure to incluce the `exact` prop on the root component for `/` to make sure that it's rendering the exact component and not all the other components.
 
 ### Steps for setting up your Navigation
-[]
+[X]
 * Inside of `Navigation.js` `import { Link } from 'react-router-dom'`.
 * Declare the `to` as the href on `<Link>` and specify the correct routes for your app to navigate towards.
 * Head over to your app and start navigating. You should be able to see your URLS changing their paths as you go. Each path should display the proper component. 
