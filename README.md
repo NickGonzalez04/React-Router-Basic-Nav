@@ -18,7 +18,7 @@ Topics:
 * run `yarn start`
 
 ### Steps for implementing React Router
-[]
+[X'/]
 * You'll notice we've already installed react-router-dom for you.
 * `import` your BrowserRouter as Router inside your `index.js` file.
 * Wrap your `<App />` component that you're passing to `ReactDOM.render()` with your new `Router` component.
